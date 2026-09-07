@@ -1,0 +1,6 @@
+{
+  "name": "MeuBebê",
+  "description": "Plataforma acolhedora para famílias criarem a página exclusiva do seu bebê com link único, linha do tempo, mural de recados e lista de presentes com PIX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
